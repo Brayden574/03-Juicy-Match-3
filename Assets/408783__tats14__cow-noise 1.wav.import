@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/408783__tats14__cow-noise 1.wav-8fba8f803233e8f002a29d0a9da20c39.sample"
+
+[deps]
+
+source_file="res://Assets/408783__tats14__cow-noise 1.wav"
+dest_files=[ "res://.import/408783__tats14__cow-noise 1.wav-8fba8f803233e8f002a29d0a9da20c39.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
